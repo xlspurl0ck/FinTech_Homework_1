@@ -2,15 +2,9 @@
 
 ## The Apple Card
 
-.center[
-
 ![_The Apple Card_](https://cdn.vox-cdn.com/thumbor/TuWaaZJ2A5tIUyPa3_geyi2Yhbo=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/15988557/Screen_Shot_2019_03_26_at_1.46.09_PM.png)
 
-.caption[
-**Figure1:** The Apple Card
-]
-
-]
+**The physical card is made of titanium**
 
 The Apple Card was officially announced at Apple's Special Event on March 25, 2019. 
 It is a joint effort between Apple and Goldman Sachs with the primary goal of improving financial health while also encouraging virtual banking
@@ -35,6 +29,8 @@ available on the app as well. Through the use of these graphs, ideally, users wi
 like fast food and be able to remove them from their normal spending habits to reduce spending.
 
 ### ![_The Apple Card changes colors in the Wallet app based on usage_](https://www.apple.com/newsroom/images/product/apple-card/standard/Apple-Card_iPhoneXS-Total-Balance_032519_big.jpg.large.jpg)
+
+**The Apple Card changes colors in the Wallet app based on usage**
 
 ## Landscape
 
