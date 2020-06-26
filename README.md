@@ -2,7 +2,15 @@
 
 ## The Apple Card
 
-### ![_The Apple Card_](https://cdn.vox-cdn.com/thumbor/TuWaaZJ2A5tIUyPa3_geyi2Yhbo=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/15988557/Screen_Shot_2019_03_26_at_1.46.09_PM.png)
+.center[
+
+![_The Apple Card_](https://cdn.vox-cdn.com/thumbor/TuWaaZJ2A5tIUyPa3_geyi2Yhbo=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/15988557/Screen_Shot_2019_03_26_at_1.46.09_PM.png)
+
+.caption[
+**Figure1:** The Apple Card
+]
+
+]
 
 The Apple Card was officially announced at Apple's Special Event on March 25, 2019. 
 It is a joint effort between Apple and Goldman Sachs with the primary goal of improving financial health while also encouraging virtual banking
